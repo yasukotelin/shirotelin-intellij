@@ -1,0 +1,28 @@
+{
+  "name": "shirotelin",
+  "dark": false,
+  "author": "yasukotelin",
+  "editorScheme": "/shirotelin.xml",
+  "ui": {
+    "Editor.background": "#FFFFFF",
+    "CompletionPopup.background": "#EFEFEF",
+    "CompletionPopup.foreground": "#000000",
+    "CompletionPopup.selectionBackground": "#5F87AF",
+    "CompletionPopup.selectionForeground": "#FFFFFF",
+    "ToolTip.background": "#FFFFAF",
+    "ToolTip.foreground": "#000000",
+    "ParameterInfo.background": "#FFFFAF",
+    "HelpTooltip.background": "#FFFFAF",
+    "HelpTooltip.foreground": "#000000",
+    "EditorPane.background": "#FFFFFF",
+    "EditorPane.foreground": "#000000",
+    "Menu.background": "#E4E4E4",
+    "Panel.background": "#E4E4E4",
+    "SidePanel.background": "#E4E4E4",
+    "CheckBox.background": "#E4E4E4",
+    "RadioButton.background": "#E4E4E4",
+    "ComboBox.background": "#E4E4E4",
+    "Button.background": "#E4E4E4",
+    "Counter.background": "#E4E4E4"
+  }
+}
