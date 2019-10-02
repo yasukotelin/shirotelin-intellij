@@ -17,13 +17,33 @@
     "EditorPane.background": "#FFFFFF",
     "EditorPane.foreground": "#000000",
 
+    "EditorTabs.background": "#E4E4E4",
+    "EditorTabs.underlineColor": "#000087",
+    "EditorTabs.underlinedTabBackground": "#FFFFFF",
+    "EditorTabs.underlinedTabForeground": "#000087",
+    "EditorTabs.inactiveUnderlineColor": "#C0C0C0",
+
+    "Tree.background": "#FFFFFF",
+    "Tree.selectionBackground": "#000087",
+    "Tree.selectionForeground": "#FFFFFF",
+    "Tree.selectionInactiveBackground": "#C0C0C0",
+
+    "List.selectionBackground": "#000087",
+    "List.selectionForeground": "#FFFFFF",
+
+    "ComboBox.background": "#E4E4E4",
+    "ComboBox.selectionBackground": "#000087",
+    "ComboBox.selectionForeground": "#FFFFFF",
+
+    "Button.background": "#E4E4E4",
     "Menu.background": "#E4E4E4",
     "Panel.background": "#E4E4E4",
     "SidePanel.background": "#E4E4E4",
     "CheckBox.background": "#E4E4E4",
     "RadioButton.background": "#E4E4E4",
-    "ComboBox.background": "#E4E4E4",
-    "Button.background": "#E4E4E4",
-    "Counter.background": "#E4E4E4"
+    "Counter.background": "#E4E4E4",
+    "PopupMenu.background": "#E4E4E4",
+    "TextArea.background": "#E4E4E4",
+    "TextPane.background": "#E4E4E4"
   }
 }

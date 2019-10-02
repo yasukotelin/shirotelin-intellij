@@ -1,10 +1,10 @@
 <scheme name="shirotelin" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-10-01T17:14:32</property>
-    <property name="ide">Idea</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-10-01T17:14:41</property>
-    <property name="originalScheme">shirotelin</property>
+    <property name="created">2019-10-02T23:33:33</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.5.0.21</property>
+    <property name="modified">2019-10-02T23:33:40</property>
+    <property name="originalScheme">_@user_shirotelin</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
@@ -34,6 +34,24 @@
     <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
     <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="DART_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="5f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="5f5f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DART_TOP_LEVEL_GETTER_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="5f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
@@ -284,7 +302,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HOCON_SUBSTITUTION_SIGN" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="af00af" />
@@ -334,6 +351,12 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffc7fe" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="5f5f" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
