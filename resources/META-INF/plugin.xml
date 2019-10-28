@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>shirotelinintellij.yasukotelin.com.github</id>
   <name>shirotelin</name>
-  <version>1.3.0</version>
+  <version>1.4.2</version>
   <vendor email="yasukotelin@gmail.com" url="https://github.com/yasukotelin/shirotelin-intellij">yasukotelin/shirotelin-intellij</vendor>
 
   <description><![CDATA[
@@ -11,6 +11,11 @@
       Original repository is <a href="https://github.com/yasukotelin/shirotelin">vim plugin shirotelin</a><br/>
       <br/>
       Ultimate standard light color scheme "shirotelin" is inspired by Eclipse, notepad++, InteliJ, Visual Studio, Hidemaru editor, sakura editor, and more⚡
+
+      <img src="https://github.com/yasukotelin/shirotelin-intellij/blob/master/images/shirotelin-intellij.png?raw=true" border="0" width="700" alt="Screenshot1">
+      <br/>
+      <img src="https://github.com/yasukotelin/shirotelin-intellij/blob/master/images/shirotelin-android-studio.png?raw=true" border="0" width="700" alt="Screenshot2">
+      <br/>
     ]]></description>
 
   <change-notes><![CDATA[
@@ -18,7 +23,7 @@
   </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-  <idea-version since-build="173.0"/>
+  <idea-version since-build="191.0"/>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
        on how to target different products -->

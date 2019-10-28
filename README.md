@@ -13,6 +13,10 @@ So classical and so easy eye😆
 
 <img src="./images/shirotelin-android-studio.png" alt="shirotelin for Android Studio">
 
+## Development
+
+- `git clone` and `Open` this project.(Not import)
+
 ## Author
 
 yasukotelin
