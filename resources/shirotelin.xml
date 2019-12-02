@@ -1,14 +1,13 @@
 <scheme name="shirotelin" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-10-24T09:52:21</property>
+    <property name="created">2019-12-02T14:29:10</property>
     <property name="ide">Idea</property>
-    <property name="ideVersion">2019.2.3.0.0</property>
-    <property name="modified">2019-10-24T09:52:26</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2019-12-02T14:29:15</property>
     <property name="originalScheme">_@user_shirotelin</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DOCUMENTATION_COLOR" value="ffffaf" />
     <option name="INFORMATION_HINT" value="ffffaf" />
     <option name="LINE_NUMBERS_COLOR" value="545454" />
@@ -21,34 +20,29 @@
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7eaef1" />
+        <option name="FOREGROUND" value="af" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="5394ec" />
+        <option name="FOREGROUND" value="af" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6cdada" />
+        <option name="FOREGROUND" value="5f5f" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="299999" />
+        <option name="FOREGROUND" value="5f5f" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -58,57 +52,48 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="aacc00" />
+        <option name="FOREGROUND" value="5f00" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a8c023" />
+        <option name="FOREGROUND" value="5f00" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff99ff" />
+        <option name="FOREGROUND" value="af00af" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ae8abe" />
-      </value>
-    </option>
-    <option name="CONSOLE_NORMAL_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ffffff" />
-      </value>
-    </option>
-    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="ff8785" />
+        <option name="FOREGROUND" value="af00af" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
-    <option name="CONSOLE_WHITE_OUTPUT">
+    <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="5f00" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffff00" />
+        <option name="FOREGROUND" value="7a7946" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d6bf55" />
+        <option name="FOREGROUND" value="7a7946" />
       </value>
     </option>
     <option name="CTRL_CLICKABLE">
@@ -439,27 +424,27 @@
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="299999" />
+        <option name="FOREGROUND" value="5f5f" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cc666e" />
+        <option name="FOREGROUND" value="ff0000" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="abcd02" />
+        <option name="FOREGROUND" value="5f00" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="539eec" />
+        <option name="FOREGROUND" value="af" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fdfdfd" />
+        <option name="FOREGROUND" value="af00af" />
       </value>
     </option>
     <option name="MARKDOWN_LINK_DESTINATION">

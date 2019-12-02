@@ -9,9 +9,13 @@ Ultimate standard light color scheme "shirotelin" is inspired by Eclipse, notepa
 
 So classical and so easy eye😆
 
-<img src="./images/shirotelin-intellij.png" alt="shirotelin for IntelliJ">
-
 <img src="./images/shirotelin-android-studio.png" alt="shirotelin for Android Studio">
+
+## Install
+
+1. Launch JetBrains IDE(IntelliJ, Android Studio etc)
+2. Open `File > Settings > Plugins`
+3. Search `shirotelin` on Marketplace and install it.
 
 ## Development
 
