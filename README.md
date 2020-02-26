@@ -8,7 +8,7 @@ Ultimate standard light color scheme "shirotelin" is inspired by Eclipse, notepa
 
 So classical and so easy eye😆
 
-<img src="./images/shirotelin-android-studio.png" alt="shirotelin for Android Studio">
+<img src="./images/shirotelin-intellij.png" alt="shirotelin for Android Studio">
 
 ## shirotelin family!
 
