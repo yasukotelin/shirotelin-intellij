@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>shirotelinintellij.yasukotelin.com.github</id>
   <name>shirotelin</name>
-  <version>1.6.0</version>
+  <version>1.8.0</version>
   <vendor email="yasukotelin@gmail.com" url="https://github.com/yasukotelin/shirotelin-intellij">yasukotelin/shirotelin-intellij</vendor>
 
   <description><![CDATA[
@@ -12,7 +12,7 @@
       <br/>
       shirotelin is inspired by Eclipse, notepad++, InteliJ, Visual Studio, Hidemaru editor, sakura editor, and more⚡
 
-      <img src="https://github.com/yasukotelin/shirotelin-intellij/blob/master/images/shirotelin-android-studio.png?raw=true" border="0" width="700" alt="Screenshot2">
+      <img src="https://github.com/yasukotelin/shirotelin-intellij/blob/master/images/shirotelin-intellij.png?raw=true" border="0" width="700" alt="Screenshot2">
       <br/>
     ]]></description>
 

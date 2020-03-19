@@ -8,14 +8,14 @@
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="DOCUMENTATION_COLOR" value="ffffaf" />
-    <option name="INFORMATION_HINT" value="ffffaf" />
+    <option name="DOCUMENTATION_COLOR" value="eeeeee" />
     <option name="LINE_NUMBERS_COLOR" value="545454" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="444444" />
     <option name="SELECTION_BACKGROUND" value="cde8ff" />
     <option name="SELECTION_FOREGROUND" value="0" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
     <option name="TOOLTIP" value="ffffaf" />
+    <option name="INFORMATION_HINT" value="ffffaf" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
