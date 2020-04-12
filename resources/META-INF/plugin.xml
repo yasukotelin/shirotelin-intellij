@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>shirotelinintellij.yasukotelin.com.github</id>
   <name>shirotelin</name>
-  <version>1.8.0</version>
+  <version>1.9.0</version>
   <vendor email="yasukotelin@gmail.com" url="https://github.com/yasukotelin/shirotelin-intellij">yasukotelin/shirotelin-intellij</vendor>
 
   <description><![CDATA[

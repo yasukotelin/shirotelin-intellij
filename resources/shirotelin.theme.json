@@ -10,5 +10,10 @@
     "EditorPane.foreground": "#000000",
 
     "EditorTabs.underlineColor": "#000087",
-    "EditorTabs.underlinedTabForeground": "#000087"
+    "EditorTabs.underlinedTabForeground": "#000087",
+
+    "CompletionPopup.foreground": "#000000",
+    "CompletionPopup.matchForeground": "#005FAF",
+    "CompletionPopup.selectionBackground": "#AFD7FF",
+    "CompletionPopup.selectionInactiveBackground": "#AFD7FF"
   }}
